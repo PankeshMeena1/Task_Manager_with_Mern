@@ -21,9 +21,6 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "scripts": {
-  "build": "your build command here"
-},
   "eslintConfig": {
     "extends": [
       "react-app",
